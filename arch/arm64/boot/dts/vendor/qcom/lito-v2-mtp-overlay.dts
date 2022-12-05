@@ -11,3 +11,4 @@
 	qcom,msm-id = <400 0x20000>, <440 0x20000>;
 	qcom,board-id = <8 0>;
 };
+#include "../nubia/NX651J/head.dtsi"
